@@ -33,10 +33,10 @@
             </div>
             <div class="login_boton">
                 <a id="login_boton-entrar" href="#">Entrar</a>
-                <div id="login_olvide-contra">
+                <!--<div id="login_olvide-contra">
                     ¿Olvidaste tu contraseña?
                     <a href="#">Click aqui</a>
-                </div>
+                </div>-->
             </div>
         </form>
     </div>

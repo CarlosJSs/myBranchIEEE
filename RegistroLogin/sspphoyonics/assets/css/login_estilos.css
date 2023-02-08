@@ -15,11 +15,11 @@ body {
 
 .login_caja {
     position: absolute;
-    /*top: 50%;*/
+    top: 20%;
     left: 50%;
     width: 400px;
     padding: 40px;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, 0);
     background: #242026;
     box-shadow: 0 15px 25px rgba(143, 124, 236, 0.7);
     border-radius: 10px;
@@ -95,7 +95,7 @@ input:focus~i {
     margin-bottom: 8px;
 }
 
-#login_olvide-contra {
+/*#login_olvide-contra {
     font-size: 14px;
     text-decoration: none;
     color: #cbbddb;
@@ -108,7 +108,7 @@ input:focus~i {
     margin: auto;
     color: #8f7cec;
     text-decoration: none;
-}
+}*/
 
 .login_input-correo .login_myicono {
     color: #fff;
